@@ -1,3 +1,6 @@
+layout: page
+title: "Maths test"
+permalink: /maths/
 usemathjax: true
 # Maths test
 
