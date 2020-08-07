@@ -1,7 +1,7 @@
 layout: page
 title: "Maths test"
-permalink: /maths/
-usemathjax: true
+permalink: /posts/maths/
+
 # Maths test
 
 This is text.
